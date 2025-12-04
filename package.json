@@ -1,0 +1,23 @@
+{
+    "name": "com.exrnext.castingtoolkit",
+  "version": "1.0.0",
+  "displayName": "Casting Toolkit",
+  "description": "Custom casting toolkit powered by EXRNET networking, wrapped for INION VR Pvt Ltd.",
+  "dependencies": {
+        "com.unity.webrtc": "3.0.0",
+        "com.unity.nuget.newtonsoft-json":"3.2.2"
+  },
+  "samples": [
+    {
+      "displayName": "Login & Stream UI",
+      "description": "Prefabs and Scripts for the login flow.",
+      "path": "Samples~/Auth&StreamingExample"
+    }
+  ],
+
+  "author": {
+    "name": "Exrnext Labs Private Limited",
+    "email": "contact@exrnext.com",
+    "url": "https://exrnext.com"
+  }
+}
