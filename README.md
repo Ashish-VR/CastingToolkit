@@ -1,2 +1,0 @@
-# CastingToolkit
-Toolkit for Casting
