@@ -1,6 +1,6 @@
 {
     "name": "com.exrnext.castingtoolkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Casting Toolkit",
   "description": "Custom casting toolkit powered by EXRNET networking, wrapped for INION VR Pvt Ltd.",
   "dependencies": {
